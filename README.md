@@ -1,7 +1,19 @@
+# Needed libraries and boards
+needs the m5core2 library
+
+board:
+https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json
+
+
+if your having troubles with connecting to Arduino please go to this link:
+https://docs.m5stack.com/en/arduino/arduino_ide
+# Code
+The code is in examples, named factory test
+
+
 # Desc
 my version for the m5fire thermal camera code includes a crosshair which when pointed to reads the temperature
 please be advised this is very scuffed as it was for a school project
-
 
 
 # M5Unit-Thermal2-Internal-FW
