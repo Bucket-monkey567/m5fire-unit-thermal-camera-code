@@ -8,7 +8,7 @@ https://static-cdn.m5stack.com/resource/arduino/package_m5stack_index.json
 if your having troubles with connecting to Arduino please go to this link:
 https://docs.m5stack.com/en/arduino/arduino_ide
 # Code
-The code is in examples, named factory test
+The code is in examples>factory test
 
 
 # Desc
